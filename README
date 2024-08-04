@@ -1,0 +1,7 @@
+Wake on LAN
+
+This is a non-bloat WoL tool written for linux. Just give the program a mac
+address as operand.
+
+158 LOC make this thing easy hackable. Do what you want with it.
+
